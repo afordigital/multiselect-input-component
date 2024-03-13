@@ -2,7 +2,7 @@ import { MultiSelect } from "./MultiSelect";
 
 function App() {
   return (
-    <main className="w-screen h-screen flex justify-center items-center bg-slate-7">
+    <main className="w-screen h-screen flex justify-center items-center bg-gradient-to-r from-slate-800 to-slate-700">
       <MultiSelect />
     </main>
   );
