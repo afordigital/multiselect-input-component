@@ -1,0 +1,6 @@
+input::-webkit-calendar-picker-indicator {
+  display: block;
+  opacity: 1;
+  color: #64748b;
+  padding-bottom: 10px;
+}
